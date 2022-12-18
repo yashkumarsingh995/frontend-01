@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/futureProp/static/css/main.db25f121.css",
+    "main.js": "/futureProp/static/js/main.65643650.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/futureProp/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/futureProp/index.html",
+    "main.db25f121.css.map": "/futureProp/static/css/main.db25f121.css.map",
+    "main.65643650.js.map": "/futureProp/static/js/main.65643650.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/futureProp/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db25f121.css",
+    "static/js/main.65643650.js"
+  ]
+}
